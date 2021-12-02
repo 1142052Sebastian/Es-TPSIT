@@ -50,6 +50,14 @@ int main(int argc, char** argv)
 	Cell *q = new Cell;
 	cin>> q->val;
 	cout<< q->val;
+	delete q; // Elimina la prima cella
+	delete []q; // Elimina tutte le celle di memoria
+	
+	Cell b;
+	
+	Cell a.next = b;
+	
+	cout>>
 	
 	
 }
