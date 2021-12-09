@@ -33,8 +33,15 @@ int main(int argc, char** argv)
 {
 	// Crea un nuovo Cell con variabile a e un puntatore che punta ad a
 	// In output a.val == *p.val -> Entrambi puntano alla stessa memoria 
-	
-	Cell a;
+	Cell Root;
+	Cout<< "Inserisci un carattere da mettere in coda, altrimenti inserisci 1 - ";
+	Cin >> int se;
+	if(se != 1)
+	{
+		Cell a;	
+		Cell Root.next = Cell
+	}
+
 	cin>> a.val;
 	cout<< a.val;
 	Cell *p = &a;
