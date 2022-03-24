@@ -74,3 +74,9 @@ int main(int argc, char** argv)
 }
 
 
+
+/* Salve prof, questo progrmama l'ho trovato fatto molto tempo fa ma mai pubblicato, onestamente è quello
+che "funziona" meglio ma non riesco a sistemare l'altro, consegno entrambi e procedo con gli altri
+esercizi*/
+
+
